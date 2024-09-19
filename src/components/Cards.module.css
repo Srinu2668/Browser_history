@@ -1,0 +1,36 @@
+.singleCard
+{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin-bottom: 5px;
+    border-radius: 10px;
+    background-color: rgb(250, 250, 250);
+}
+
+.singleCard p
+{
+    width:10%;
+    padding-left: 20px;
+}
+.comlogo
+{
+    height: 20px;
+    width: 2%;
+}
+.singleCard h5
+{
+    width: 50%;
+    padding-left:2%;
+}
+.singleCard h6
+{
+    width: 30%;
+}
+.del
+{
+    height: 20px;
+    width: 2%;
+}
